@@ -11,7 +11,16 @@ Here
 # Technology Used :sunglasses:
 * HTML
 * CSS
+* MySQL
 
+# Features
+- Highly Flexible *Built From Scratch*
+- ### Seller Side
+  - Add new products
+  - See Orders
+  - Differet Pages For latest,Hot🔥,Exclusive Collection
+  - See Customers Order
+-
 
 
 
