@@ -26,11 +26,16 @@ Here
   - Responsive Site
   - Fast and Secure👍 Payment
 
+# Sneak Peek
+
 # Clone The Repo
 
 ``` 
 https://github.com/secrakib/Active-Wear.git  
 ```
+# Licenses
+<table><tr><td>Apache License 2.0</td></tr></table>
+
 
 
 
