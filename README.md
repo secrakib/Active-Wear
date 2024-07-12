@@ -20,7 +20,17 @@ Here
   - See Orders
   - Differet Pages For latest,Hot🔥,Exclusive Collection
   - See Customers Order
--
+- ### Buyer Side
+  - Add Products to Cart
+  - Sort Products
+  - Responsive Site
+  - Fast and Secure👍 Payment
+
+# Clone The Repo
+
+``` 
+https://github.com/secrakib/Active-Wear.git  
+```
 
 
 
