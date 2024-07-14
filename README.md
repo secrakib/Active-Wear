@@ -30,6 +30,8 @@ Here
 
 # Sneak Peek 👀
 
+https://github.com/user-attachments/assets/5b170c29-4493-438e-848c-f27b6ac86772
+
 ![Screenshot (67)](https://github.com/user-attachments/assets/42f068f8-d4f4-4d8e-81dc-741c325fd75d)  
 ![Screenshot 32](https://github.com/user-attachments/assets/3206d765-f58f-42ee-8b08-40803f7e2898)  
 ![Screenshot (75)](https://github.com/user-attachments/assets/b3f46742-f6cf-497d-8450-a7fe90d93eff)  
